@@ -3,7 +3,7 @@ Dashboard : Sales data analysis
 
 Description:This repository contains a comprehensive Sales Data Analysis Dashboard built using Microsoft Power BI. The dashboard provides insights into sales performance, customer behavior, and market trends, enabling data-driven decisions to drive business growth.
 
-Files:
+Files(sample data files):
   - Sales data
   - Customer data
   - Product data
