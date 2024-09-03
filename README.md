@@ -14,3 +14,4 @@ Features:
    -Product and Region Analysis: Deep dive into product categories, individual product performance, and regional sales comparisons.
    -Filter and Slicer Options: Easy filtering of data by product, region, time period, and more for customized insights.
    -Drill-Down Capabilities: Detailed insights on sales data by clicking through different layers of information.
+   
